@@ -21,3 +21,5 @@ const spec = {
     return [];
   }
 }
+
+registerBidder(spec);
